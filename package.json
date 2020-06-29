@@ -1,0 +1,17 @@
+{
+  "name": "test-task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "date-and-time": "^0.13.1",
+    "date-fns": "^2.14.0"
+  }
+}
